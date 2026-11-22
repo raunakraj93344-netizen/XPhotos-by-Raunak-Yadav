@@ -1,0 +1,6 @@
+{
+  "name": "XPhotos",
+  "description": "Offline local photo gallery with folder organization, real EXIF viewer, PIN-protected hidden vault, image sharing, and Developer Options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

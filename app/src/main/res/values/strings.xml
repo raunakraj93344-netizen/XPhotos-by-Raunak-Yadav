@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XPhotos</string>
+    <string name="app_name_xphotos">XPhotos</string>
+    <string name="app_name_gallery">Gallery</string>
+    <string name="app_name_photos">Photos</string>
+    <string name="app_name_pixelvault">PixelVault</string>
+    <string name="app_name_framebox">FrameBox</string>
+    <string name="app_tagline">Offline device gallery, privately organized</string>
+    <string name="tab_library">Library</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_albums">Albums</string>
+    <string name="tab_settings">Settings</string>
+    <string name="action_open_camera">Open camera</string>
+    <string name="action_play_slideshow">Play slideshow</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_done">Done</string>
+    <string name="action_save">Save changes</string>
+</resources>
